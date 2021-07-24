@@ -1,0 +1,14 @@
+{
+    "name": "SubExtractBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}

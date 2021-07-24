@@ -1,0 +1,1 @@
+worker: python sub_bot.py
